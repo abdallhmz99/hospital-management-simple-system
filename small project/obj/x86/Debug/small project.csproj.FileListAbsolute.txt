@@ -1,0 +1,16 @@
+E:\3bdallah\semester 4\file org\labs\small project\small project\bin\Debug\small project.exe
+E:\3bdallah\semester 4\file org\labs\small project\small project\bin\Debug\small project.pdb
+E:\3bdallah\semester 4\file org\labs\small project\small project\obj\x86\Debug\small_project.Form1.resources
+E:\3bdallah\semester 4\file org\labs\small project\small project\obj\x86\Debug\small_project.Properties.Resources.resources
+E:\3bdallah\semester 4\file org\labs\small project\small project\obj\x86\Debug\small project.csproj.GenerateResource.Cache
+E:\3bdallah\semester 4\file org\labs\small project\small project\obj\x86\Debug\small project.exe
+E:\3bdallah\semester 4\file org\labs\small project\small project\obj\x86\Debug\small project.pdb
+E:\3bdallah\semester 4\file org\labs\small project\small project\obj\x86\Debug\small project.csprojResolveAssemblyReference.cache
+E:\3bdallah\modern\semester 4\file org\عبدالله محمد محمد  عبد الرحيم\small project\small project\obj\x86\Debug\small project.exe
+E:\3bdallah\modern\semester 4\file org\عبدالله محمد محمد  عبد الرحيم\small project\small project\obj\x86\Debug\small project.pdb
+E:\3bdallah\modern\semester 4\file org\عبدالله محمد محمد  عبد الرحيم\small project\small project\bin\Debug\small project.exe
+E:\3bdallah\modern\semester 4\file org\عبدالله محمد محمد  عبد الرحيم\small project\small project\bin\Debug\small project.pdb
+E:\3bdallah\modern\semester 4\file org\عبدالله محمد محمد  عبد الرحيم\small project\small project\obj\x86\Debug\small project.csprojResolveAssemblyReference.cache
+E:\3bdallah\modern\semester 4\file org\عبدالله محمد محمد  عبد الرحيم\small project\small project\obj\x86\Debug\small_project.Form1.resources
+E:\3bdallah\modern\semester 4\file org\عبدالله محمد محمد  عبد الرحيم\small project\small project\obj\x86\Debug\small_project.Properties.Resources.resources
+E:\3bdallah\modern\semester 4\file org\عبدالله محمد محمد  عبد الرحيم\small project\small project\obj\x86\Debug\small project.csproj.GenerateResource.Cache
